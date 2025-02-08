@@ -1,0 +1,14 @@
+.counter{
+    color: grey;
+    min-width: 300px;
+    height: 300px;
+    font-size: 160px;
+    font-family: "Oswald", sans-serif;
+    padding: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 8px solid grey;
+    border-radius: 15px;
+    margin-bottom: 15px;
+}

@@ -1,0 +1,43 @@
+button {
+  width: 250px;
+  height: 80px;
+  font-family: "Oswald", sans-serif;
+  font-size: 2em;
+  color: rgb(158, 158, 158);
+  font-weight: bold;
+  border: 2px solid grey;
+  border-radius: 15px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.click-button {
+  color: white;
+  background-color: rgb(106, 80, 201);
+}
+
+.click-button:hover {               /*button:hover => cuando el mouse esta arriba pero si hacer click*/
+  color: white;
+  background-color:rgb(82, 62, 156);
+}
+
+
+.rest-button {
+  color: white;
+  background-color: rgb(199, 91, 28);
+}
+
+.rest-button:hover {
+  color: white;
+  background-color: rgb(158, 74, 25);
+}
+
+.restart-button {
+  color: white;
+  background-color: rgb(28, 173, 199);
+}
+
+.restart-button:hover {
+  color: white;
+  background-color: rgb(23, 142, 163);
+}
