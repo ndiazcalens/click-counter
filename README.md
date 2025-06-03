@@ -12,14 +12,6 @@ This is a simple web-based click counter application, built with **React**, **Ja
 
 ---
 
-## 🚀 Live Demo
-
-*(**Highly Recommended!** Replace this with the actual URL where your Click Counter is hosted. For example, if you deploy it to GitHub Pages, Vercel, or Netlify, paste the link here.)*
-
-[**View Live Demo**](https://your-live-demo-url-here.com)
-
----
-
 ## 🛠️ Technologies Used
 
 * **React:** Frontend JavaScript library for building user interfaces.
